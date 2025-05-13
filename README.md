@@ -66,6 +66,8 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaiNam1408&bg_color=1a1b27&color=628fdb&line=38bcad&point=be91f2&area=true&hide_border=true" width="100%" alt="Activity Graph">
+  
+  ![snake gif](https://github.com/HaiNam1408/HaiNam1408/blob/output/github-snake-dark.svg)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
