@@ -13,9 +13,6 @@
         <a href="https://discord.gg/1030871259434733698" target="_blank">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
         </a>
-        <a href="https://www.facebook.com/phamhainam.1408" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-        </a>
         <a href="https://www.linkedin.com/in/nam-ph%E1%BA%A1m-3847b8218/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
